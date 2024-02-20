@@ -1,4 +1,4 @@
-# Projeto de Web Site: Manhattan - Coffee House
+# Manhattan - Coffee House
 
 ## Informações sobre o projeto
 
