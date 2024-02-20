@@ -3,7 +3,7 @@
 Projeto site de cafeteria nome/marca Manhattan - Coffee House.
 Esse projeto foi desenvolvido junto ao curso React.js da DevMedia.
 
-> Acesse em: [Manhattan - Coffee House](https://projeto-sorveteria-seven.vercel.app/ "Projeto Manhattan - Coffee House")
+> Acesse em: [Manhattan - Coffee House](https://projeto-manhattan-coffe.vercel.app/ "Projeto Manhattan - Coffee House")
 
 Nele criamos a página de um site de cafeteria. O site é composto por uma pagina principal, com informações sobre a cafeteria seu diferencial, endereço e horario de funcionamento:
 
