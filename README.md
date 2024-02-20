@@ -1,4 +1,6 @@
-# Informações sobre o projeto
+# Projeto de Web Site: Manhattan - Coffee House
+
+## Informações sobre o projeto
 
 Projeto site de cafeteria nome/marca Manhattan - Coffee House.
 Esse projeto foi desenvolvido junto ao curso React.js da DevMedia.
@@ -7,7 +9,7 @@ Esse projeto foi desenvolvido junto ao curso React.js da DevMedia.
 
 Nele criamos a página de um site de cafeteria. O site é composto por uma pagina principal, com informações sobre a cafeteria seu diferencial, endereço e horario de funcionamento:
 
-> ### Página Pricipal (Home):
+> ### Página Principal (Home):
 
 ![imagem-site-manhattan](https://github.com/Jhonatan-777/projeto-manhattan-coffe/assets/155544904/89cc8b49-62a8-4d45-b347-796db1f7d1d3)
 
