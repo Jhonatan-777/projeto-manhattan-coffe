@@ -7,16 +7,17 @@ import Banner from "./sections/banner/Banner";
 import Info from "./sections/informacoes/Info";
 import Contatos from "./sections/contatos/Contatos";
 import Horarios from "./sections/horarios/Horarios";
-import Footer from "./sections/footer/footer";
+import Footer from "./sections/footer/Footer";
 
-function App() {
+function App()
+{
   return (
     <>
       <GlobalStyles />
-      
-      
+
+
       <ThemeProvider theme={light}>
-      
+
         <main className='App'>
           <Topo />
           <Banner />
